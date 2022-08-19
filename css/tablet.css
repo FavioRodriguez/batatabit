@@ -1,0 +1,26 @@
+html {
+  font-size: 70%;
+}
+.main-table-container {
+  flex-direction: row;
+  gap: 6rem;
+  max-width: 800px;
+}
+
+.plans-container-slider {
+  justify-content: center;
+  gap: 1rem;
+  overflow-x: hidden;
+}
+
+.card-top {
+  left: calc(50% - 60px);
+}
+
+footer {
+  justify-content: center;
+}
+
+.footer-list-link {
+  flex-direction: row;
+}
