@@ -102,7 +102,7 @@ header {
   width: 1.3rem;
   height: 0.8rem;
   margin-left: 0.8rem;
-  background-image: url("./assets/icons/down-arrow.svg");
+  background-image: url("/assets/icons/down-arrow.svg");
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -135,7 +135,7 @@ main {
 .background-img {
   width: 19.5rem;
   height: 19.5rem;
-  background-image: url("./assets/img/Bitcoin.svg");
+  background-image: url("/assets/img/Bitcoin.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -233,7 +233,7 @@ main {
   width: 1.1rem;
   height: 0.6rem;
   margin-left: 1rem;
-  background-image: url("./assets/icons/trending-down.svg");
+  background-image: url("/assets/icons/trending-down.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -244,7 +244,7 @@ main {
   width: 1.1rem;
   height: 0.6rem;
   margin-left: 1rem;
-  background-image: url("./assets/icons/trending-up.svg");
+  background-image: url("/assets/icons/trending-up.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -296,7 +296,7 @@ main {
   display: inline-block;
   width: 37px;
   height: 24px;
-  background-image: url("./assets/icons/batata.svg");
+  background-image: url("/assets/icons/batata.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -342,19 +342,19 @@ main {
 }
 
 .clock {
-  background-image: url("./assets/icons/clock.svg");
+  background-image: url("/assets/icons/clock.svg");
 }
 
 .eye {
-  background-image: url("./assets/icons/eye.svg");
+  background-image: url("/assets/icons/eye.svg");
 }
 
 .dolar {
-  background-image: url("./assets/icons/dollar-sign.svg");
+  background-image: url("/assets/icons/dollar-sign.svg");
 }
 
 .checked {
-  background-image: url("./assets/icons/check-circle.svg");
+  background-image: url("/assets/icons/check-circle.svg");
 }
 
 .product-card h3 {
@@ -498,7 +498,7 @@ main {
   display: inline-block;
   width: 2.4rem;
   height: 2.4rem;
-  background-image: url("./assets/icons/orange-right-arrow.svg");
+  background-image: url("/assets/icons/orange-right-arrow.svg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -546,7 +546,7 @@ footer {
   display: inline-block;
   width: 6.4rem;
   height: 5rem;
-  background-image: url("./assets/img/logo-footer.svg");
+  background-image: url("/assets/img/logo-footer.svg");
   background-repeat: no-repeat;
   background-size: cover;
 }
